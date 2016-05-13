@@ -99,3 +99,16 @@ body {
 		font-size:15px;
 	}
 }
+
+@media(max-width: 1032px){
+	.navigation a{
+		font-size:13px;
+	}
+}
+
+
+@media(max-width: 950px){
+	.navigation li{
+		padding: 15px;
+	}
+}

@@ -112,3 +112,12 @@ body {
 		padding: 15px;
 	}
 }
+
+@media(max-width: 799px){
+	.navigation li{
+		padding: 5px 25px 5px 25px;
+	}
+	.navigation a {
+		font-size: 20px
+	}
+}
